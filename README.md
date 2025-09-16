@@ -1,3 +1,4 @@
 # Indexoldal
 Problémamegoldó szeminárium beadandó feladatok
-Egy kis változtatás.
+
+Egy kis változtatás..
